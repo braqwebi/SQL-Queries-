@@ -1,6 +1,4 @@
 
-#ALY6030
-#ASSIGNMENT 1 - SQL
 #NYINAKU,ISAAC
 #SEPTEMBER 21, 2025. 
 ###Creating a Schema to use###
