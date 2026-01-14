@@ -1,5 +1,4 @@
-#ALY6030
-#ASSIGNMENT  
+
 #NYINAKU, ISAAC
 #OCTOBER 7, 2025
 ### Updated Script - Follows Script 2 Naming and Structure ###
