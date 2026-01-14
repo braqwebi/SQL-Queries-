@@ -1,6 +1,5 @@
 # =============================================================
-# ALY6030 - Data Warehousing and SQL
-# MODULE 4 ASSIGNMENT: Dimension and Fact Table Techniques
+ Dimension and Fact Table Techniques
 # AUTHOR: NYINAKU, ISAAC
 # DATE: OCTOBER 13, 2025
 # =============================================================
